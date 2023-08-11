@@ -110,6 +110,15 @@ body {
     
 }
 
+.contact-container {
+    background: #232443;
+    display: flex;
+    flex: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 0;
+}
+
 .footer-container {
     background: #1b1b27;
     display: flex;
